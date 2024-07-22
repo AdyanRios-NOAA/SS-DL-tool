@@ -1,0 +1,47 @@
+# Ignore files related to SSoutput
+admodel.cov
+admodel.dep
+admodel.hes
+CompReport.sso
+control.ss_new
+covar.sso
+CumReport.sso
+data_echo.ss_new
+data_expval.ss
+derived_posteriors.sso
+echoinput.sso
+fmin.log
+Forecast-report.sso
+forecast.ss_new
+ParmTrace.sso
+posterior_obj_func.sso
+posterior_vectors.sso
+posteriors.sso
+rebuild.sso
+Report.sso
+runnumber.ss
+Scenario_Inputs
+SIS_table.sso
+ss_summary.sso
+ss3.b01
+ss3.b02
+ss3.bar
+ss3.cor
+ss3.eva
+ss3.log
+ss3.p01
+ss3.p02
+ss3.par
+ss3.r01
+ss3.r02
+ss3.rep
+ss3.std
+starter.ss_new
+warning.sso
+wtatage.ss_new
+
+# Ignore ss3.exe
+ss3.exe
+
+# Ignore plots
+plots
