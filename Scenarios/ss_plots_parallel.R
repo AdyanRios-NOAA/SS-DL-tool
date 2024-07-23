@@ -47,7 +47,7 @@ foreach(i = seq_along(1:length(full_names))) %dopar% {
   setwd(new_folder)
   
   # Run SS
-  shell(paste("cd /d ", getwd(), " && ss3 ", sep=""))
+  shell(paste("cd /d ", getwd(), " && ss3 -nohess", sep=""))
   
   # Read in SS output
   myreplist <- r4ss::SS_output(
