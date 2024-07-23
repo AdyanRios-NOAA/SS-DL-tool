@@ -9,7 +9,7 @@ librarian::shelf(
 )
 
 # Specify pattern
-scenarios_pattern <- "s84"
+scenarios_pattern <- "^84"
 
 # Specify ss3.exe
 temp.files <- list.files(
