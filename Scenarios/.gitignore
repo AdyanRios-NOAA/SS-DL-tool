@@ -51,3 +51,10 @@ ss3.exe
 # Ignore plots
 plots
 Rplots.pdf
+
+# Ignore jitter and retro for now
+jitter
+retro
+
+# Ignore archive
+archive
